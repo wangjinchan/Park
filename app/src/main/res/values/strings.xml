@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Park</string>
+    <string name="left_car">当前剩余车位：</string>
+    <string name="welcome">欢迎使用智能停车场！(设备未连接！)</string>
+    <string name="connect_park">连接停车场</string>
+    <string name="into">入闸</string>
+    <string name="out">出闸</string>
+</resources>
